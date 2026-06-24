@@ -6,15 +6,15 @@ This project is an interactive business intelligence dashboard designed to analy
 Built using Python, Dash, Plotly, Pandas, and Prophet, the dashboard combines descriptive and predictive analytics to support data-driven decision-making for investors, analysts, researchers, and students.
 
 Key Features
-📈 Interactive stock price trend analysis
-📊 Trading volume visualisation
-🔥 Correlation heatmaps for market insights
-📅 Dynamic date-range filtering
-🏢 Company selection (TCS, Infosys, NIFTY IT Index)
-🤖 Prophet-based stock price forecasting
-📋 Automated descriptive statistics
-💾 Downloadable filtered datasets
-🖱️ Interactive charts with hover tooltips
+- 📈 Interactive stock price trend analysis
+- 📊 Trading volume visualisation
+- 🔥 Correlation heatmaps for market insights
+- 📅 Dynamic date-range filtering
+- 🏢 Company selection (TCS, Infosys, NIFTY IT Index)
+- 🤖 Prophet-based stock price forecasting
+- 📋 Automated descriptive statistics
+- 💾 Downloadable filtered datasets
+- 🖱️ Interactive charts with hover tooltips
 
 Technologies Used
 - Python
